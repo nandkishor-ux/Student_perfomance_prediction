@@ -1,4 +1,4 @@
-# 🎓 Student Performance Prediction
+#  Student Performance Prediction
 
 A machine learning web app built with **Flask** that predicts a student's **Math Score** based on demographic and academic factors.
 
