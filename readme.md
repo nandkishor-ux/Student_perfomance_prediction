@@ -2,7 +2,7 @@
 
 A machine learning web app built with **Flask** that predicts a student's **Math Score** based on demographic and academic factors.
 
-## 📸 Demo
+##  Demo
 ![App Screenshot](actual_vs_predicted.png)
 
 ## 🚀 Features
@@ -11,17 +11,17 @@ A machine learning web app built with **Flask** that predicts a student's **Math
 - Random Forest Regression model
 - Flask backend
 
-## 📊 Dataset
+##  Dataset
 - **Source:** StudentsPerformance.csv
 - **Size:** 1000 students
 - **Features:** Gender, Race/Ethnicity, Parental Education, Lunch, Test Preparation Course, Reading Score, Writing Score
 
-## 🧠 Model
+##  Model
 - **Algorithm:** Random Forest Regressor
 - **Target:** Math Score
 - **Encoding:** Label Encoding for categorical features
 
-## 🛠️ Tech Stack
+##  Tech Stack
 - Python
 - Flask
 - Scikit-learn
@@ -29,7 +29,7 @@ A machine learning web app built with **Flask** that predicts a student's **Math
 - Matplotlib, Seaborn
 - HTML, CSS
 
-## ⚙️ How to Run Locally
+##  How to Run Locally
 
 ```bash
 # 1. Clone the repo
