@@ -14,7 +14,7 @@
 
 This project builds an end-to-end ML pipeline to predict a student's **math score** using features like gender, parental education level, lunch type, test preparation course, and reading/writing scores. Trained on a Kaggle dataset of **1,000 students**.
 
----
+--
 
 ## 📊 Results
 
