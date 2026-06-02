@@ -25,7 +25,7 @@ This project builds an end-to-end ML pipeline to predict a student's **math scor
 | **Strongest Predictor** | Reading Score |
 | **Model** | Random Forest Regressor |
 
----
+--
 
 ## 🔬 What I Did
 
@@ -35,13 +35,13 @@ This project builds an end-to-end ML pipeline to predict a student's **math scor
 - Trained and evaluated a **Random Forest Regressor**
 - Generated **actual vs predicted** and **feature importance** plots
 
----
+--
 
 ## 💡 Key Finding
 
 > **Reading score** emerged as the strongest single predictor of math performance — stronger than demographic factors like gender or parental education level.
 
----
+--
 
 ## 📁 Repository Structure
 
