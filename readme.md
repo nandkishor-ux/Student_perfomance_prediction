@@ -43,7 +43,7 @@ This project builds an end-to-end ML pipeline to predict a student's **math scor
 
 --
 
-## 📁 Repository Structure
+##  Repository Structure
 
 ```
 Student_perfomance_prediction/
