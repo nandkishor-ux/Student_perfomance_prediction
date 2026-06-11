@@ -37,7 +37,7 @@ This project builds an end-to-end ML pipeline to predict a student's **math scor
 
 --
 
-## 💡 Key Finding
+##  Key Finding
 
 > **Reading score** emerged as the strongest single predictor of math performance — stronger than demographic factors like gender or parental education level.
 
